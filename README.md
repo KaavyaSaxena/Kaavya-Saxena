@@ -10,7 +10,7 @@ Welcome to my GitHub profile, where you can explore some of my exciting projects
 <h2 align="center"> 🌱 About Me 🌱</h2>
 I'm a Final Year Student at Indira Gandhi Delhi Technical University For Women. My journey in the world of programming began in college where I discovered C++. Over the years, I've worked on a diverse range of projects, ranging from Full Stack Web Applications to some Supervised ML Models.
 
-<h2 align="center"> 🌱 Languages I have Worked With 🌱</h2>
+<h2 align="center"> 🌱 Tech Stacks I have Worked With 🌱</h2>
 <p align="center">
   <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" alt="cplusplus" width="40" height="40"/>
@@ -19,6 +19,7 @@ I'm a Final Year Student at Indira Gandhi Delhi Technical University For Women. 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=512&id=hCWb1IvpcBZ0&format=png" alt="Flask" width="40" height="40"/> 
 </p>
 
 <h2 align="center"> 🌱 Project Highlights 🌱</h2>
@@ -42,7 +43,7 @@ Here are some of the notable projects you'll find in my repositories:
     <b>Link:</b> <a href="https://github.com/Kaavya-Saxena/jansahay_app" target="_blank">Github</a>
   </li>
   <li>
-    <b>Contribution:</b> I worked on implementing a verification system which uses an ML algorithm to verify if the user uploaded the complaint in correct category.
+    <b>Contribution:</b> I worked on implementing a verification system that uses an ML algorithm to verify if the user uploaded the complaint in correct category.
   </li>
 </ul>
 
