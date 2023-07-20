@@ -20,6 +20,9 @@ I'm a Final Year Student at Indira Gandhi Delhi Technical University For Women. 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://img.icons8.com/?size=512&id=hCWb1IvpcBZ0&format=png" alt="Flask" width="40" height="40"/> 
+  <img src="https://img.favpng.com/22/12/24/net-framework-microsoft-windows-7-png-favpng-srUtzC1G9i7NYhfnduH4H5qkS.jpg" alt="dotnet" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=512&id=20906&format=png" alt="Git" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=512&id=63777&format=png" alt="GitHub" width="40" height="40"/> 
 </p>
 
 <h2 align="center"> 🌱 Project Highlights 🌱</h2>
